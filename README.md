@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Pixelador & Meme Generator (C + Termux)
-=======
-cat << 'EOF' > README.md
 # Pixelizador & Meme Generator (C + Termux)
 >>>>>>> 2f565a4 (Adicionando aviso de limite de tamanho de imagem.)
 
@@ -50,5 +46,3 @@ Projeto desenvolvido com auxílio de Inteligêngia Artificial (Gemini, Google) p
 =======
 ## Créditos
 Projeto desenvolvido com auxílio de Inteligência Artificial (Gemini, Google) para fins de estudo sobre manipulação de arquivos binários e automação.
-EOF
->>>>>>> 2f565a4 (Adicionando aviso de limite de tamanho de imagem.)
