@@ -39,9 +39,5 @@ chmod +x pixel.sh
 ./pixel.sh
 ```
 
-<<<<<<< HEAD
 ## 📝 Créditos
 Projeto desenvolvido com auxílio de Inteligêngia Artificial (Gemini, Google) para fins de estudo sobre manipulação de arquivos binários e automação.
-=======
-## Créditos
-Projeto desenvolvido com auxílio de Inteligência Artificial (Gemini, Google) para fins de estudo sobre manipulação de arquivos binários e automação.
