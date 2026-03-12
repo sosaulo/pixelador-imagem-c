@@ -1,5 +1,4 @@
 # Pixelizador & Meme Generator (C + Termux)
->>>>>>> 2f565a4 (Adicionando aviso de limite de tamanho de imagem.)
 
 Este projeto é uma ferramenta de processamento de imagem de baixo nível desenvolvida em C, integrada a um script de automação em Shell. Ele permite transformar fotos comuns em versões pixelizadas ou em "Memes Degradados" (Deep Fried).
 
