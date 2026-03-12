@@ -1,0 +1,17 @@
+# Ignorar executáveis (arquivos sem extensão vindos do clang)
+pixelizador
+pixelador
+pixalizador
+
+# Ignorar arquivos temporários de imagem
+entrada.bmp
+saida.bmp
+
+# Ignorar outros binários comuns
+*.out
+*.o
+.config/
+.ssh/
+storage/
+pastapx
+.gitconfig
