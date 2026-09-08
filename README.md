@@ -109,5 +109,5 @@ Como o processamento binário é feito carregando os pixels descompactados diret
 
 ## 📝 Créditos
 
-Créditos para o cocozao do Maurino que estuda Engenharia de Computação no IFCE de Fortaleza.
+Créditos para o cocozao do Maurino que estuda Engenharia de Computação no IFCE de Fortaleza.  
 Projeto desenvolvido para fins de estudo sobre manipulação de arquivos binários, alocação de memória em C e automação em scripts Shell.
