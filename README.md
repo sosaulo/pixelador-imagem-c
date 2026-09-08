@@ -41,8 +41,8 @@ termux-setup-storage
 ```
 #### 3. Clonar e Compilar o Projeto
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/sosaulo/pixelador-imagem-c.git
+cd pixelador-imagem-c
 
 clang pixelador.c -o pixelizador
 chmod +x pixel.sh
